@@ -35,6 +35,4 @@ public class Bird extends ZooAnimal
         System.out.println(name + " is laying eggs.");
     }
  
- 
- 
 }//end class
